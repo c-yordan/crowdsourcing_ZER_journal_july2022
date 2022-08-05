@@ -1,0 +1,79 @@
+municipality,aee_region,percent_customers_with_electricity,percent_customers_with_electrictiy_region,mentions_electricity_corpus,percent_customers_no_electricity,percent_of_total_mentions
+Adjuntas,Arecibo,63,86,50,37,1.792757261
+Aguada,Mayagüez,96,91,14,4,0.501972033
+Aguadilla,Mayagüez,96,91,42,4,1.505916099
+Aguas Buenas,Caguas,44,60,25,56,0.8963786303
+Aibonito,Caguas,56,60,24,44,0.8605234851
+Añasco,Mayagüez,74,91,14,26,0.501972033
+Arecibo,Arecibo,92,86,42,8,1.505916099
+Arroyo,Ponce,95,95,3,5,0.1075654356
+Barceloneta,Arecibo,92,86,7,8,0.2509860165
+Barranquitas,Caguas,64,60,34,36,1.219074937
+Bayamón,Bayamón,87,85,47,13,1.685191825
+Cabo Rojo,Mayagüez,99,91,8,1,0.2868411617
+Caguas,Caguas,66,60,79,34,2.832556472
+Camuy,Arecibo,100,86,7,0,0.2509860165
+Canóvanas,Carolina,76,92,9,24,0.3226963069
+Carolina,Carolina,97,92,12,3,0.4302617426
+Cataño,Bayamón,100,85,4,0,0.1434205809
+Cayey,Caguas,73,60,29,27,1.039799211
+Ceiba,Carolina,99,92,9,1,0.3226963069
+Ciales,Caguas,54,60,48,46,1.72104697
+Cidra,Caguas,64,60,24,36,0.8605234851
+Coamo,Ponce,97,95,5,3,0.1792757261
+Comerío,Caguas,28,60,80,72,2.868411617
+Corozal,Bayamón,70,85,36,30,1.290785228
+Culebra,Carolina,100,92,21,0,0.7529580495
+Dorado,Bayamón,91,85,6,9,0.2151308713
+Fajardo,Carolina,99,92,12,1,0.4302617426
+Florida,Arecibo,82,86,16,18,0.5736823234
+Guánica,Ponce,97,95,4,3,0.1434205809
+Guayama,Ponce,95,95,1,5,0.03585514521
+Guayanilla,Ponce,95,95,2,5,0.07171029043
+Guaynabo,San Juan,100,99,5,0,0.1792757261
+Gurabo,Caguas,81,60,13,19,0.4661168878
+Hatillo,Arecibo,100,86,2,0,0.07171029043
+Hormigueros,Mayagüez,100,91,3,0,0.1075654356
+Humacao,Caguas,49,60,249,51,8.927931158
+Isabela,Arecibo,95,86,6,5,0.2151308713
+Jayuya,Arecibo,65,86,54,35,1.936177842
+Juana Díaz,Ponce,95,95,7,5,0.2509860165
+Juncos,Caguas,77,60,26,23,0.9322337755
+Lajas,Mayagüez,94,91,4,6,0.1434205809
+Lares,Mayagüez,74,91,29,26,1.039799211
+Las Marías,Mayagüez,69,91,14,31,0.501972033
+Las Piedras,Caguas,41,60,71,59,2.54571531
+Loíza,Carolina,100,92,14,0,0.501972033
+Luquillo,Carolina,99,92,12,1,0.4302617426
+Manatí,Arecibo,94,86,7,6,0.2509860165
+Maricao,Mayagüez,28,91,18,72,0.6453926138
+Maunabo,Ponce,52,95,65,48,2.330584439
+Mayagüez,Mayagüez,84,91,31,16,1.111509502
+Moca,Mayagüez,98,91,17,2,0.6095374686
+Morovis,Arecibo,60,86,80,40,2.868411617
+Naguabo,Caguas,63,60,51,37,1.828612406
+Naranjito,Caguas,74,60,42,26,1.505916099
+Orocovis,Caguas,36,60,93,64,3.334528505
+Patillas,Ponce,66,95,40,34,1.434205809
+Peñuelas,Ponce,90,95,2,10,0.07171029043
+Ponce,Ponce,96,95,42,4,1.505916099
+Quebradillas,Arecibo,85,86,18,15,0.6453926138
+Rincón,Mayagüez,99,91,36,1,1.290785228
+Río Grande,Carolina,84,92,16,16,0.5736823234
+Sabana Grande,Mayagüez,90,91,4,10,0.1434205809
+Salinas,Ponce,99,95,9,1,0.3226963069
+San Germán,Mayagüez,97,91,9,3,0.3226963069
+San Juan,San Juan,100,99,94,0,3.37038365
+San Lorenzo,Caguas,46,60,48,54,1.72104697
+San Sebastián,Mayagüez,99,91,26,1,0.9322337755
+Santa Isabel,Ponce,98,95,7,2,0.2509860165
+Toa Alta,Bayamón,71,85,18,29,0.6453926138
+Toa Baja,Bayamón,97,85,20,3,0.7171029043
+Trujillo Alto,San Juan,97,99,3,3,0.1075654356
+Utuado,Arecibo,60,86,170,40,6.095374686
+Vega Alta,Bayamón,75,85,5,25,0.1792757261
+Vega Baja,Bayamón,76,85,11,24,0.3944065973
+Vieques,Carolina,70,92,131,30,4.697024023
+Villalba,Ponce,83,95,22,17,0.7888131947
+Yabucoa,Caguas,35,60,419,65,15.02330584
+Yauco,Ponce,97,95,12,3,0.4302617426
