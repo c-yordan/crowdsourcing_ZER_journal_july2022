@@ -67,7 +67,7 @@ This dataset was used to create Figures 2 and 3.
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I downloaded this dataset into my working directory and uploaded it into <strong>R</strong> using the <strong>readr</strong> package. I then subsetted the dataset for entries connected to Hurricane Maria. Each hurricane has its own unique identifier and after some exploring, I realized that Maria's "key" was AL152017, representing the 15th tropical storm of the 2017 Atlantic hurricane season.</p>
+<p>I downloaded this dataset into my working directory and uploaded it into <strong>R</strong> using the readr package. I then subsetted the dataset for entries connected to Hurricane Maria. Each hurricane has its own unique identifier and after some exploring, I realized that Maria's "key" was AL152017, representing the 15th tropical storm of the 2017 Atlantic hurricane season.</p>
 <!-- /wp:paragraph -->
 
 I used *ggplot2* to create the map of Puerto Rico, using spatial data from the US Census Bureau accessed via the *tigris* pacakge for R. For an explanation on how I produced this map, please visit the following [website](https://worldpoliticsdatalab.org/resources/how-to-create-maps-in-r-with-the-ggplot2-package-part-2/).
