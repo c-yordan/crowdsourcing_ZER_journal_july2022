@@ -4,7 +4,7 @@ This repository includes several datasets used in the following article.
 
 ## Title:
 
-"The ‘Wisdom of The Crowds’ and Their Knowledge of Puerto Rico’s Challenges Six Months After Hurricane Maria: Thoughts on David Begnaud’s Experiment on Journalism Crowdsourcing," ZER: Revista de Estudios de Comunicacion, vol 27, num. 52 (November 2022).
+"The ‘Wisdom of The Crowds’ and Their Knowledge of Puerto Rico’s Challenges Six Months After Hurricane Maria: Thoughts on David Begnaud’s Experiment on Journalism Crowdsourcing," ZER: Revista de Estudios de Comunicacion (November 2022).
 
 ## Abstract: 
 
